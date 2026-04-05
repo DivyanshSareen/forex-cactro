@@ -1,3 +1,10 @@
+# Deployment Link
+Frotnend- https://forex-cactro-ujip.vercel.app/
+Backend- https://forex-cactro.onrender.com
+
+Note- I added these links 20 minutes past due time.
+Note- please refer .kiro/design.md for implementation details.
+
 # Approach
 ## Issue
 Clients don’t trust the service enough to opt for a paid plan. On our free tier, we need to atleast match what google shows.
